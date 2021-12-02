@@ -1,6 +1,6 @@
 # Predicting-Features-of-Diabetes-using-Machine-Learning
 
-##Introduction
+## Introduction
 According to the Centers for Disease Control and Prevention (CDC), approximately 32.4 
 million people in the United States have diabetes which is about 10.5% percent of the population (National Diabetes Statistics Report, 2020). Diabetes is a chronic disease that millions of people live with and learn to manage. Type 1 diabetes is a condition where a person’s pancreas has trouble producing insulin to process sugar in their body. Type 2 diabetes is when a person’s body doesn't use insulin properly and is much more common in diabetes patients. Scientists are unsure of what factors specifically cause the blood glucose imbalance. 
 
